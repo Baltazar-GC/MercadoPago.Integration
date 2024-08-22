@@ -22,7 +22,7 @@ This repository contains a sample application that integrates MercadoPago with a
 
 ## Tech Stack
 
-- **Backend:** .NET 8, C#, Entity Framework Core
+- **Backend:** .NET 8, C#
 - **Frontend:** React, JavaScript, CSS
 - **Payment Gateway:** MercadoPago
 
